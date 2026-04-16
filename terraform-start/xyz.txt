@@ -1,0 +1,1 @@
+xyz.txt arn:aws:iam::964037622278:policy/ecr-auth-policy
